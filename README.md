@@ -1,8 +1,10 @@
 ### PLANE-CRASH-ANALYSIS.
 
-##### About                                                                                                                                                    This Analysis Report:  This project examined global plane crash data to uncover patterns, highlight risk factors, and provide actionable insights for aviation safety improvements.
+##### About                                                                                                                                                    This Analysis Report:
+This project examined global plane crash data to uncover patterns, highlight risk factors, and provide actionable insights for aviation safety improvements.
 
-#### DATA SUMMARY:                                                                                                                                              The dataset contained 28,457 crashes, with detailed statistics on passengers, crew, survival rates, regions, flight phases, aircraft types, and organizations involved.
+#### DATA SUMMARY:
+The dataset contained 28,457 crashes, with detailed statistics on passengers, crew, survival rates, regions, flight phases, aircraft types, and organizations involved.
 
 #### OBJECTIVES:
 1. Identified the most critical phases and conditions that led to crashes.
