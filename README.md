@@ -1,4 +1,4 @@
-### PLANE-CRASH-ANALYSIS-
+### PLANE-CRASH-ANALYSIS.
 
 ##### About This Analysis Report:
 This project examined global plane crash data to uncover patterns, highlight risk factors, and provide actionable insights for aviation safety improvements.
